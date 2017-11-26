@@ -1,6 +1,6 @@
 # grapesjs-html-block
 
-This is a plugin for GrapesJS (https://github.com/artf/grapesjs) that allows you to edit the HTML of any component.
+This is a plugin for GrapesJS (https://github.com/artf/grapesjs) that adds an editable HTML block.
 
 ## Usage
 
